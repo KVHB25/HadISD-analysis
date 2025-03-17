@@ -1,0 +1,26 @@
+# Ignore node_modules directory
+node_modules/
+
+# Ignore log files
+*.log
+
+# Ignore build directories
+dist/
+build/
+extracted_files/
+
+# Ignore environment variable files
+.env
+# Ignore OS generated files
+.DS_Store
+combined_weather_data.csv
+Data.tar.gz
+Thumbs.db
+
+# Ignore IDE specific files
+.vscode/
+.idea/
+*.suo
+*.user
+*.userosscache
+*.sln.docstates

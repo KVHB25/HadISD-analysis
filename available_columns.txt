@@ -1,0 +1,34 @@
+Data Variables:
+ - station_id
+ - temperatures
+ - dewpoints
+ - slp
+ - stnlp
+ - windspeeds
+ - winddirs
+ - total_cloud_cover
+ - low_cloud_cover
+ - mid_cloud_cover
+ - high_cloud_cover
+ - precip1_depth
+ - precip2_depth
+ - precip3_depth
+ - precip6_depth
+ - precip9_depth
+ - precip12_depth
+ - precip15_depth
+ - precip18_depth
+ - precip24_depth
+ - cloud_base
+ - wind_gust
+ - past_sigwx1
+ - input_station_id
+ - quality_control_flags
+ - flagged_obs
+ - reporting_stats
+
+Coordinates:
+ - longitude
+ - latitude
+ - elevation
+ - time
