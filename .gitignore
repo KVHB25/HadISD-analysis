@@ -16,6 +16,7 @@ extracted_files/
 combined_weather_data.csv
 Data.tar.gz
 Thumbs.db
+.gz
 
 # Ignore IDE specific files
 .vscode/
